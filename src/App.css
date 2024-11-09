@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.Register-form {
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  gap: 20px;
+  margin: auto;
+}
+.button{
+  background-color: black;
+  color: white;
+  border: 1px solid black;
+  border-radius: 3px;
+  margin-top: 15px;
+}
